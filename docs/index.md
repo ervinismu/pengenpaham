@@ -19,11 +19,14 @@ features:
   - icon: 💙
     title: Golang - Planet (on progress)
     details: (on progress)
+    link: '/golang-planet/'
   - icon: 💜
     title: Elixir - Planet (on progress)
     details: (on progress)
+    link: '/elixir-planet/'
   - icon: 💎
     title: Ruby - Planet
     details: (on progress)
+    link: '/ruby-planet/'
 
 ---
