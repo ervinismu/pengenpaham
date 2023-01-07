@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.d7d9889e.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"golang-planet/interfaces.md","lastUpdated":1673066025000}'),n={name:"golang-planet/interfaces.md"};function r(s,o,c,p,i,d){return a(),t("div")}const f=e(n,[["render",r]]);export{_ as __pageData,f as default};

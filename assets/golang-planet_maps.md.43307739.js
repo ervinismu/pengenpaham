@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t}from"./app.54bebb36.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"golang-planet/maps.md","lastUpdated":1673066025000}'),s={name:"golang-planet/maps.md"};function n(o,r,p,c,d,l){return t(),e("div")}const i=a(s,[["render",n]]);export{_ as __pageData,i as default};

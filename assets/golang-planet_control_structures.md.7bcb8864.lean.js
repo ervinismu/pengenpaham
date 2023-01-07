@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r}from"./app.d7d9889e.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"golang-planet/control_structures.md","lastUpdated":1673066025000}'),a={name:"golang-planet/control_structures.md"};function o(s,n,c,l,p,_){return r(),e("div")}const i=t(a,[["render",o]]);export{u as __pageData,i as default};

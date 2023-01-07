@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.54bebb36.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"golang-planet/operators.md","lastUpdated":1673066025000}'),o={name:"golang-planet/operators.md"};function r(s,n,p,c,d,l){return a(),t("div")}const m=e(o,[["render",r]]);export{i as __pageData,m as default};

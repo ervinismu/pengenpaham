@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.54bebb36.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"golang-planet/struct.md","lastUpdated":1673066025000}'),r={name:"golang-planet/struct.md"};function s(n,o,c,p,d,l){return a(),e("div")}const m=t(r,[["render",s]]);export{i as __pageData,m as default};

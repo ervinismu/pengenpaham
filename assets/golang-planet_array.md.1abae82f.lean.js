@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t}from"./app.54bebb36.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"golang-planet/array.md","lastUpdated":1673066025000}'),r={name:"golang-planet/array.md"};function n(o,s,c,p,d,l){return t(),e("div")}const m=a(r,[["render",n]]);export{i as __pageData,m as default};

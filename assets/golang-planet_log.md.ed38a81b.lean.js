@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.54bebb36.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"golang-planet/log.md","lastUpdated":1673066025000}'),o={name:"golang-planet/log.md"};function n(r,s,c,l,p,d){return a(),t("div")}const g=e(o,[["render",n]]);export{i as __pageData,g as default};
