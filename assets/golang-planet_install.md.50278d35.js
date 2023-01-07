@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./app.54bebb36.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"golang-planet/install.md","lastUpdated":1673066025000}'),n={name:"golang-planet/install.md"};function s(o,r,l,c,p,i){return e(),a("div")}const m=t(n,[["render",s]]);export{_ as __pageData,m as default};

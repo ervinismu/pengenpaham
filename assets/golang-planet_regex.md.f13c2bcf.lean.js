@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.54bebb36.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"golang-planet/regex.md","lastUpdated":1673066025000}'),r={name:"golang-planet/regex.md"};function n(o,s,c,p,d,l){return a(),t("div")}const g=e(r,[["render",n]]);export{i as __pageData,g as default};
