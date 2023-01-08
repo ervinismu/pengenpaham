@@ -5,8 +5,11 @@
 
 ## Run
 
+- Clone this repository
+- `cd pengenpaham`
 - `npm install`
 - `npm run docs:dev`
+- Open in your browser `http://localhost:5173/pengenpaham/`
 
 ## Author
 
